@@ -4,12 +4,6 @@ A fun and interactive **Memory Matching Game** built with pure **HTML, CSS, and 
 
 ---
 
-## 🚀 Live Demo
-
-Play here: [https://yuvaraj780.github.io/memory-matching-game-js/](https://yuvaraj780.github.io/memory-matching-game-js/)
-
----
-
 ## 🕹️ Gameplay Rules
 
 1. Click a card to flip it.
