@@ -35,9 +35,10 @@ A fun and interactive **Memory Matching Game** built with pure **HTML, CSS, and 
 ## 📁 File Structure
 
 memory-matching-game-js/
-├── index.html # Game UI
-├── style.css # Game styles
-└── script.js # Game logic
+├── index.html     # Game UI
+├── style.css      # Game styles
+└── script.js      # Game logic
+
 
 ---
 
